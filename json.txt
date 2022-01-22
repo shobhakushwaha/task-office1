@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "users": [
+        {
+            "_id": "61ebdbbc17de3d4503815e78",
+            "firstname": "neha",
+            "lastname": "sharma",
+            "email": "nehajoshi@gmail.com"
+        },
+        {
+            "_id": "61ebe9a5940464e1c34d89d7",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeae7940464e1c34d89d9",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeae9940464e1c34d89db",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeb01940464e1c34d89dd",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeb03940464e1c34d89df",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeb0c940464e1c34d89e1",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeb11940464e1c34d89e3",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeb18940464e1c34d89e5",
+            "__v": 0
+        },
+        {
+            "_id": "61ebee12940464e1c34d89e8",
+            "__v": 0
+        },
+        {
+            "_id": "61ebeee8940464e1c34d89ea",
+            "__v": 0
+        }
+    ]
+}
